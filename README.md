@@ -1,8 +1,12 @@
 # Nairobi Motors
 
-<img src="./assets/header.svg" width="100%" alt="Nairobi Motors" />
+Kiambu Autospares showroom site.
 
-Kiambu Autospares showroom. Parts, service, inventory.
+**Status:** brand site
+
+## Stack
+
+React, TypeScript, Vite
 
 ## Run locally
 
